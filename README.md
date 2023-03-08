@@ -4,7 +4,7 @@
 
 <br/>
 
-> #### I live in Bursa. I graduated from Karabuk University of Mechatronics Engineering. I have 3 years of software engineering experience.  
+> #### I live in Bursa. I graduated from Karabuk University of Mechatronics Engineering. I have 3 years of experience in software engineering.  
   
 
 <br>
