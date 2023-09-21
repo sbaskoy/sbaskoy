@@ -1,24 +1,32 @@
-## Hi. My name is Salim BASKOY  
+## Hello, I'm Salim
+
+<br/>
+👨‍💻 Software Developer | 🌐 Full-Stack | 🚀 Flutter, Node.js, Vue.js, .NET Core
+<br/>
 
 
+### About Me
+
+I'm a software engineer with 4 years of software development experience, and during this time, I've developed applications for various platforms. Here are some of my skills and experiences:
+<br/>
+<br/>
+#### Technical Skills
+
+- I'm an expert in mobile app development with Flutter. I've successfully developed and published multiple apps in app stores.
+- I have a strong foundation in Node.js and Vue.js and use these technologies effectively for web application development.
+- Proficient in C# and .NET Core, I have experience in creating REST APIs and am knowledgeable about layered architecture and SOLID principles.
+- I've built real-time applications using Node.js libraries like Socket.io.
+- I have experience working with databases such as SQL, MongoDB, and Redis.
 
 <br/>
 
-> #### I live in Bursa. I graduated from Karabuk University of Mechatronics Engineering. I have 3 years of experience in software engineering.  
-  
+#### Software Architecture
 
-<br>
+- I emphasize clean and maintainable code by focusing on Object-Oriented Programming (OOP) and SOLID principles.
+- I've developed powerful RESTful APIs with .NET Core using a layered architecture.
+- I'm knowledgeable about database design and performance optimization.
 
->  ⚡Team player, innovative, solution focused, traveler, energetic
-  
-
-- I am developing a mobile application with Flutter  and front-end app with vue.js. I am using node js, express for backend applications and mongo db as database  
-  
-
-- I'm developing my own app outside of my job. [Github Lottery](https://github.com/sbaskoy/lottery/)  
-  
-
-- I am compatible with teamwork. I like to travel  
+ 
   
 
 <br/>  
